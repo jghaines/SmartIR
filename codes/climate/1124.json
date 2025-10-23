@@ -6,7 +6,9 @@
     "MSZ-SF42VE3",
     "MSZ-SF50VE3",
     "MSZ-AP20VG",
-    "MSZ-AP25VGD"
+    "MSZ-AP20VGD",
+    "MSZ-AP25VGD",
+    "MSZ-AP71VGKD2"    
   ],
   "commandsEncoding": "Base64",
   "supportedController": "Broadlink",
